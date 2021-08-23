@@ -1,2 +1,2 @@
 # HM4
-CSC 103 Project
+Fourth major project for my Introduction to Computing course.
