@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------------------
+| Description: screws+        | Description: hammer+        | Description: springs+       |
+| Number:      1              | Number:      2              | Number:      3              |
+| Part Cost:   $4.99          | Part Cost:   $6.00          | Part Cost:   $3.50          |
+-------------------------------------------------------------------------------------------
+| Description: battery+       | Description: USB connector+ | Description: device case    |
+| Number:      4              | Number:      5              | Number:      6              |
+| Part Cost:   $4.50          | Part Cost:   $4.50          | Part Cost:   $4.50          |
+-------------------------------------------------------------------------------------------
+| Description: USB mouse      | Description: plate          | Description: motion sensor  |
+| Number:      7              | Number:      8              | Number:      9              |
+| Part Cost:   $10.25         | Part Cost:   $5.00          | Part Cost:   $20.00         |
+-------------------------------------------------------------------------------------------
