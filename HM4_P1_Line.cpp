@@ -5,7 +5,7 @@ HM4, Part 1, Source File (Line)
 
 #include <iostream>
 #include <cmath>
-#include "HM4_P1_Bennett_23778852_Line.h"
+#include "HM4_P1_Line.h"
 
 //Constructor (default)
 Line::Line() {
