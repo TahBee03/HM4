@@ -5,7 +5,7 @@ HM4, Part 1, Source File (Point)
 
 #include <iostream>
 #include <cmath> //Library needed to use pow(), sqrt(), and isinf().
-#include "HM4_P1_Bennett_23778852_Point.h"
+#include "HM4_P1_Point.h"
 using namespace std;
 
 //Print function (definition)
