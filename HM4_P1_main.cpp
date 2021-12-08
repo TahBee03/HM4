@@ -9,8 +9,8 @@ HM4, Part 1, Main File
 #include <vector>
 #include <string>
 #include <cmath>
-#include "HM4_P1_Bennett_23778852_Point.h"
-#include "HM4_P1_Bennett_23778852_Line.h"
+#include "HM4_P1_Point.h"
+#include "HM4_P1_Line.h"
 using namespace std;
 
 void PrintLines(Line& line1, Line& line2, Line& line3) {
