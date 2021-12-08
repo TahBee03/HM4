@@ -1,12 +1,12 @@
 /*
 NAME: Talike Bennett
-EMPLID: 23778852
+HM4, Part 1, Header File (Line)
 */
 
 #ifndef LINE_H
 #define LINE_H
 
-#include "HM4_P1_Bennett_23778852_Point.h"
+#include "HM4_P1_Point.h"
 using namespace std;
 
 class Line {
